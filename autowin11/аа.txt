@@ -1,0 +1,4 @@
+C:\Windows\System32\Sysprep\sysprep.exe /generalize /oobe /shutdown /unattend:C:\Windows\System32\Sysprep\unattend.xml
+
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File C:\Deploy\status.ps1
