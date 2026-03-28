@@ -31,7 +31,7 @@
 
       <UserAccounts>
         <AdministratorPassword>
-          <Value>Softsvit123</Value>
+          <Value>password</Value>
           <PlainText>true</PlainText>
         </AdministratorPassword>
 
@@ -40,7 +40,7 @@
             <Name>Admin</Name>
             <Group>Administrators</Group>
             <Password>
-              <Value>Limeadm9378</Value>
+              <Value>password</Value>
               <PlainText>true</PlainText>
             </Password>
           </LocalAccount>
@@ -49,7 +49,7 @@
             <Name>User</Name>
             <Group>Users</Group>
             <Password>
-              <Value>123qweQWE</Value>
+              <Value>password</Value>
               <PlainText>true</PlainText>
             </Password>
           </LocalAccount>
@@ -59,7 +59,7 @@
       <AutoLogon>
         <Username>Admin</Username>
         <Password>
-          <Value>Limeadm9378</Value>
+          <Value>password</Value>
           <PlainText>true</PlainText>
         </Password>
         <Enabled>true</Enabled>

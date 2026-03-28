@@ -36,7 +36,7 @@
             <Name>Admin</Name>
             <Group>Administrators</Group>
             <Password>
-              <Value>Limeadm9378</Value>
+              <Value>password</Value>
               <PlainText>true</PlainText>
             </Password>
           </LocalAccount>
@@ -47,7 +47,7 @@
       <AutoLogon>
         <Username>Admin</Username>
         <Password>
-          <Value>Limeadm9378</Value>
+          <Value>password</Value>
           <PlainText>true</PlainText>
         </Password>
         <Enabled>true</Enabled>
